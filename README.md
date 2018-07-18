@@ -20,3 +20,9 @@ Uma extensão funcional criada para o hands-on de Chrome Extensions para a equip
 2.  Clique no ícone da extensão na barra do navegador
 3.  Clique no botão "Capturar todos os nomes e preços"
 4.  Veja a mágica do script de `popup.js` se comunicando com o `inject.js`, que interage com a página e cria um novo elemento. :)
+
+---
+
+## Apresentação
+
+https://docs.google.com/presentation/d/1UmRFc42uj51DZdg7Oyy86iNqb-DOtUlPjQK9gv_V_R4/edit?usp=sharing
