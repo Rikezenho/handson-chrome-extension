@@ -18,8 +18,8 @@ Uma extensão funcional criada para o hands-on de Chrome Extensions para a equip
 
 1.  Entre em uma página de busca da Netshoes, por exemplo: https://www.netshoes.com.br/busca?nsCat=Natural&q=tenis
 2.  Clique no ícone da extensão na barra do navegador
-3.  Clique no botão "Capturar todos os nomes e preços"
-4.  Veja a mágica do script de `popup.js` se comunicando com o `inject.js`, que interage com a página e cria um novo elemento. :)
+3.  Clique no botão "Aplicar Cage"
+4.  Veja a mágica do script de `popup.js` se comunicando com o `inject.js`, que interage com a página e manipula as imagens. :)
 
 ---
 
